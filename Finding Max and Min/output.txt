@@ -1,0 +1,2 @@
+Maximum Value is: 60
+Minimum Value is: -8
