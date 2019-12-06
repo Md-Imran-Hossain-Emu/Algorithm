@@ -1,0 +1,5 @@
+The following matrix shows the shortest distances between every pair of vertices 
+0     5     0     4199040     
+4199040     0     4199040     7208624     
+7208680     7208685     7208680     11407720     
+-2     3     -2     4199038     
